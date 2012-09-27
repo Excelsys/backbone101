@@ -1,0 +1,5 @@
+[
+  {_id: "01", tipo: "Carmenere", bodega: "Undurraga", cosecha: 1998},
+  {_id: "02", tipo: "Merlot", bodega: "Undurraga", cosecha: 2002},
+  {_id: "03", tipo: "Malbec", bodega: "Rutini", cosecha: 2004}
+]
